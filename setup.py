@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name                = 'piptest',
+    name                = 'yjpip',
     version             = '0.1',
     description         = 'pip test',
     author              = 'yaeji',
