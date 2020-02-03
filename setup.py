@@ -4,7 +4,7 @@ setup(
     name                = 'piptest',
     version             = '0.1',
     description         = 'pip test',
-    author              = 'yaeji
+    author              = 'yaeji',
     author_email        = 'dldpwl0320@gmail.com',
     url                 = 'https://github.com/yjl32/test',
     download_url        = 'https://github.com/jeakwon/ccpy/archive/0.0.tar.gz',
